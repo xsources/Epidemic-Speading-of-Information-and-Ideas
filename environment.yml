@@ -1,0 +1,9 @@
+name: spreading-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - scipy
+  - networkx
