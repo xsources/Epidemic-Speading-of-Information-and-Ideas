@@ -11,5 +11,5 @@ Three types of distribution are suggested for the whole infection of the grid.
 
 -Two-sides infection
 
-Choose one of the three distribution, by uncommenting the appropriate block and by commenting others.
+Choose one from the three distributions by uncommenting the appropriate block and by disabling (commenting) the others.
 After the application being displayed, click "Next spread" button to compute and show the parameters of the epidemic spreading. Click the "Reset" button to reset the current process and start a new spreading process.
